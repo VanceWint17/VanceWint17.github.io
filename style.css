@@ -28,7 +28,7 @@ header {
   grid-area: header;
   text-align: center;
   margin: auto auto auto auto;
-  font-size: 50px;
+  font-size: 30px;
   color: wheat;
 }
 
@@ -37,7 +37,7 @@ header h1 {
 }
 
 .background h1 {
-  font-size: 100px;
+  font-size: px;
   font-weight: bold;
   text-align: center;
   background-color: wheat;
@@ -51,18 +51,18 @@ header h1 {
 .background {
   grid-area: background;
   font-size: 4;
-  font-size: 55px;
+  font-size: 24px;
 }
 .background p {
   grid-area: background;
   font-size: 4;
-  font-size: 55px;
+  font-size: 30px;
   color: wheat;
 }
 
 .education {
   grid-area: education;
-  font-size: 55px;
+  font-size: px;
 }
 
 .education h2 {
@@ -71,7 +71,7 @@ header h1 {
 }
 
 .education p {
-  font-size: 55px;
+  font-size: 30px;
   color: wheat;
 }
 
@@ -80,25 +80,25 @@ header h1 {
   font-size: 30px;
 }
 .contact-info h2 {
-  font-size: 70px;
+  font-size: 30px;
   background-color: wheat;
   margin-right: 73%;
 }
 
 .contact-info ul,
 a {
-  font-size: 60px;
+  font-size: 30px;
   color: wheat;
 }
 
 .skills h2 {
   grid-area: skills;
-  font-size: 70px;
+  font-size: 30px;
   background-color: wheat;
   margin-right: 88%;
 }
 .skills ul {
-  font-size: 55px;
+  font-size: 30px;
   margin-left: 20px;
   color: wheat;
 }
@@ -110,7 +110,7 @@ a {
 }
 
 .github h2 {
-  font-size: 55px;
+  font-size: 30px;
   background-color: wheat;
   margin-right: 88%;
   color: black;
@@ -119,12 +119,14 @@ a {
   color: chartreuse;
 }
 .github a {
-  font-size: 60px;
+  font-size: 30px;
 }
+
 .github img {
-  width: 600px;
+  width: 70px;
 }
 .github ul li {
+  font-size: 20px;
   display: inline;
 }
 .img {
